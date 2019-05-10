@@ -4,7 +4,7 @@
 
 - [视频](#视频)
 - [机器学习算法](#机器学习算法)
-- [For Fun](#For Fun)
+- [For Fun](#for-fun)
 - [游戏课程](#游戏课程)
 - [Kaggle](#Kaggle)
 - [Github优秀资源](#Github优秀资源)

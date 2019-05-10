@@ -1,11 +1,14 @@
 # ML学习记录
 
-
-## 目的
-
-Make a plan，想从一名网络安全转型成为一名AI工程师。
-
 ## 目录
+
+- [视频](#视频)
+- [机器学习算法](#机器学习算法)
+- [For Fun](#For Fun)
+- [游戏课程](#游戏课程)
+- [Kaggle](#Kaggle)
+- [Github优秀资源](#Github优秀资源)
+- [工程实践](#工程实践)
 
 ---
 
@@ -37,7 +40,7 @@ Make a plan，想从一名网络安全转型成为一名AI工程师。
 > - [ ] 异常检测
 > - [ ] 神经网络
 
-## 机器学习 for fun
+## For Fun
 
 [有趣的机器学习](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) —系列课程，利用多个有意思的项目燃起你对机器学习的兴趣
 
@@ -84,4 +87,3 @@ Make a plan，想从一名网络安全转型成为一名AI工程师。
 ## 工程实践
 
 [深度学习识别汉字点选验证码](https://houugen.fun/2019/01/04/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%AF%86%E5%88%AB%E6%B1%89%E5%AD%97%E7%82%B9%E9%80%89%E9%AA%8C%E8%AF%81%E7%A0%81/)
-
